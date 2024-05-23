@@ -1,16 +1,27 @@
-## Hi there 👋
+# Seja bem-vindo ao meu GitHub Profile!
 
-<!--
-**gregoriando/gregoriando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Gregory, mas pode me chamar de Greg 👋
 
-Here are some ideas to get you started:
+### Sobre mim
+- 🎓 **Formação**: Sou formado em Letras (Português/Inglês) e em Análise e Desenvolvimento de Sistemas.
+- 💼 **Experiência**:
+  - Estagiei por 1 ano em desenvolvimento Backend utilizando a linguagem Ruby com o framework Rails.
+  - Atualmente, estou aprimorando minhas habilidades como programador mobile com foco em Swift e UIkit (ViewCode).
+- 🌱 **Em transição de carreira**: Estou migrando para a área de Desenvolvimento de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que estou fazendo atualmente
+- 🔭 Estou trabalhando em projetos pessoais para consolidar meus conhecimentos em Swift e UIkit.
+- 📚 Sempre aprendendo novas tecnologias e melhores práticas de desenvolvimento.
+
+### Meus interesses
+- 📱 **Desenvolvimento Mobile**: Fascinado pelo desenvolvimento de aplicativos iOS.
+- 💻 **Backend Development**: Tenho experiência em Ruby on Rails e acredito que nós como programadores devemos ter pelo menos o conhecimento básico de como funciona uma aplicação backend
+- 🧠 **Educação Continuada**: Gosto de aprender e me manter atualizado com as novas tendências e tecnologias do mercado.
+
+### Como me encontrar
+- 📫 **Email**: [seu.email@example.com](gregorystp@icloud.com)
+- 💼 **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/gregory-freire-02bb33218/)
+
+---
+
+Espero que você encontre algo interessante aqui no meu perfil. Sinta-se à vontade para entrar em contato ou colaborar em algum projeto!
