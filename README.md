@@ -19,8 +19,8 @@
 - 🧠 **Educação Continuada**: Gosto de aprender e me manter atualizado com as novas tendências e tecnologias do mercado.
 
 ### Como me encontrar
-- 📫 **Email**: [seu.email@example.com](gregorystp@icloud.com)
-- 💼 **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/gregory-freire-02bb33218/)
+- 📫 **Email**: [Gregory](gregorystp@icloud.com)
+- 💼 **LinkedIn**: [Gregory Freire](https://www.linkedin.com/in/gregory-freire-02bb33218/)
 
 ---
 
