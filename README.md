@@ -6,7 +6,7 @@
 - 🎓 **Formação**: Sou formado em Letras (Português/Inglês), Análise e Desenvolvimento de Sistemas e estou fazendo engenharia de software.
 - 💼 **Experiência**:
   - Estagiei por 1 ano em desenvolvimento Backend utilizando a linguagem Ruby com o framework Rails.
-  - Atualmente, estou aprimorando minhas habilidades como programador mobile.
+  - Atualmente, estou aprimorando minhas habilidades como Backend com Java.
 - 🌱 **Em transição de carreira**: Estou migrando para a área de Desenvolvimento de Software.
 
 ### O que estou fazendo atualmente
@@ -15,7 +15,7 @@
 
 ### Meus interesses
 - 📱 **Desenvolvimento Mobile**: Fascinado pelo desenvolvimento de aplicativos.
-- 💻 **Backend Development**: Tenho experiência em Ruby on Rails e acredito que nós como programadores devemos ter pelo menos o conhecimento básico de como funciona uma aplicação backend
+- 💻 **Backend Development**: Tenho experiência em Ruby on Rails e acredito que a Linguagem só é uma ferramenta para conseguirmos resolver os problemas do tecnologicos é o meio para o Fim.
 - 🧠 **Educação Continuada**: Gosto de aprender e me manter atualizado com as novas tendências e tecnologias do mercado.
 
 ### Como me encontrar
